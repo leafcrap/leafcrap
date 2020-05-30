@@ -1,0 +1,13 @@
+{
+  "name": "leafcrap",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "author": "Erfan Besharat <erbesharat@gmail.com>, Arman Mazdaee <arman.maz1373@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.2.0"
+  }
+}
